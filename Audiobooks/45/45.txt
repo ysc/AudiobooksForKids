@@ -1,12 +1,36 @@
- 7:36		10681KB		1 jessica finch in pig trouble 1a 480L.mp3
- 8:22		11771KB		1 jessica finch in pig trouble 1b 480L.mp3
- 7:13		10158KB		1 jessica finch in pig trouble 1c 480L.mp3
- 8:39		12158KB		2 rocky zang in the amazing mr magic 2a 510L.mp3
- 8:03		11316KB		2 rocky zang in the amazing mr magic 2b 510L.mp3
- 3:45		5271KB		2 rocky zang in the amazing mr magic 2c 510L.mp3
- 12:05		16999KB		3 amy namey in ace reporter 3a 530L.mp3
- 8:17		11661KB		3 amy namey in ace reporter 3b 530L.mp3
- 2:51		4018KB		3 amy namey in ace reporter 3c 530L.mp3
- 13:00		18276KB		4 frank pearl in the awful waffle kerfuffle 4a 470L.mp3
- 5:44		8057KB		4 frank pearl in the awful waffle kerfuffle 4b 470L.mp3
- 5:50		8210KB		4 frank pearl in the awful waffle kerfuffle 4c 470L.mp3
+ 7:36		10681KB		01 jessica finch in pig trouble 1a 480L.mp3
+ 8:22		11771KB		01 jessica finch in pig trouble 1b 480L.mp3
+ 7:13		10158KB		01 jessica finch in pig trouble 1c 480L.mp3
+ 8:39		12158KB		02 rocky zang in the amazing mr magic 2a 510L.mp3
+ 8:03		11316KB		02 rocky zang in the amazing mr magic 2b 510L.mp3
+ 3:45		5271KB		02 rocky zang in the amazing mr magic 2c 510L.mp3
+ 12:05		16999KB		03 amy namey in ace reporter 3a 530L.mp3
+ 8:17		11661KB		03 amy namey in ace reporter 3b 530L.mp3
+ 2:51		4018KB		03 amy namey in ace reporter 3c 530L.mp3
+ 13:00		18276KB		04 frank pearl in the awful waffle kerfuffle 4a 470L.mp3
+ 5:44		8057KB		04 frank pearl in the awful waffle kerfuffle 4b 470L.mp3
+ 5:50		8210KB		04 frank pearl in the awful waffle kerfuffle 4c 470L.mp3
+ 6:38		3164KB		05 Stink Moody in master of Disaster 5a.mp3
+ 6:04		2898KB		05 Stink Moody in master of Disaster 5b.mp3
+ 5:58		2851KB		05 Stink Moody in master of Disaster 5c.mp3
+ 6:45		3218KB		06 Triple Pet Trouble 6a.mp3
+ 6:17		3000KB		06 Triple Pet Trouble 6b.mp3
+ 7:25		3531KB		06 Triple Pet Trouble 6c.mp3
+ 6:17		3000KB		07 Mrs Moody in the Birthday Jinx 7a.mp3
+ 5:07		2453KB		07 Mrs Moody in the Birthday Jinx 7b.mp3
+ 6:06		2911KB		07 Mrs Moody in the Birthday Jinx 7c.mp3
+ 6:10		2940KB		08 April Fools’ Mr Todd! 8a.mp3
+ 7:34		3601KB		08 April Fools’ Mr Todd! 8b.mp3
+ 7:44		3679KB		08 April Fools’ Mr Todd! 8c.mp3
+ 4:55		4663KB		09 Judy Moody, Tooth Fairy 9a.mp3
+ 5:52		5555KB		09 Judy Moody, Tooth Fairy 9b.mp3
+ 7:16		6867KB		09 Judy Moody, Tooth Fairy 9c.mp3
+ 4:15		4039KB		10 Not-so-lucky Lefty 10a.mp3
+ 4:49		4571KB		10 Not-so-lucky Lefty 10b.mp3
+ 6:17		5946KB		10 Not-so-lucky Lefty 10c.mp3
+ 3:46		3586KB		11 Searching for Stinkodon 11a.mp3
+ 6:12		5867KB		11 Searching for Stinkodon 11b.mp3
+ 4:17		4064KB		11 Searching for Stinkodon 11c.mp3
+ 7:15		6842KB		12 Prank You Very Much 12a.mp3
+ 3:51		3664KB		12 Prank You Very Much 12b.mp3
+ 6:24		6054KB		12 Prank You Very Much 12c.mp3
