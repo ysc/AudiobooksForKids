@@ -1,0 +1,16 @@
+ 0:47		1110KB		00 pre.MP3
+ 3:52		5449KB		01 The little red hen.MP3
+ 3:37		5079KB		02 The three little pigs.MP3
+ 4:13		5935KB		03 Martina the cockroach.MP3
+ 4:00		5636KB		04 The tortoise and the hare.MP3
+ 3:47		5335KB		05 The three Billy Goats Gruff.MP3
+ 3:47		5328KB		06 The gingerbread man.MP3
+ 3:56		5525KB		07 Stone soup.MP3
+ 4:01		5660KB		08 The ugly duckling.MP3
+ 4:36		6476KB		09 Goldilocks and the three bears.MP3
+ 3:50		5403KB		10 The spider and the beehive.MP3
+ 4:51		6815KB		11 The city mouse and the country mouse.MP3
+ 4:41		6593KB		12 The elves and the shoemaker.MP3
+ 3:58		5578KB		13 The princess and the pea.MP3
+ 4:51		6817KB		14 The nightingale.MP3
+ 6:08		8626KB		15 Cinderella.MP3

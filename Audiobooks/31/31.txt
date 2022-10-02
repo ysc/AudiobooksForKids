@@ -1,0 +1,15 @@
+ 10:36		9975KB		01 Danny and the Dinosaur(no signals).mp3
+ 10:48		10163KB		01 Danny and the Dinosaur(with signals).mp3
+ 4:26		6247KB		02 Go to Camp(no signals).MP3
+ 4:37		6494KB		02 Go to Camp(with signals).MP3
+ 4:23		6168KB		03 Happy Birthday(no signals).MP3
+ 4:40		6570KB		03 Happy Birthday(with signals).MP3
+ 3:51		5415KB		04 The Big Sneeze.mp3
+ 2:41		3775KB		05 In the Big City.mp3
+ 3:47		5321KB		06 Too Tall.mp3
+ 2:54		4080KB		07 The New Puppy.mp3
+ 3:25		4806KB		08 School Days.mp3
+ 4:26		6236KB		09 The Sand Castle Contest.mp3
+ 4:41		6589KB		10 Ride a Bike.mp3
+ 4:16		6001KB		11 The Girl Next Door.mp3
+ 3:51		5415KB		12 Mind Their Manners.mp3

@@ -1,0 +1,7 @@
+ 12:00		16876KB		1 House on East 88th Street(with signal).mp3
+ 17:37		24775KB		2 Ira Says Goodbye(with signal).mp3
+ 18:17		25715KB		2 Ira Says Goodbye(without signal).MP3
+ 16:15		22848KB		3 Ira Sleeps Over(with signal).MP3
+ 15:00		21097KB		3 Ira Sleeps Over(without signal).MP3
+ 18:12		25586KB		4 Lyle, Lyle, Crocodile(with signal).MP3
+ 17:47		25016KB		4 Lyle, Lyle, Crocodile(without signal).MP3
