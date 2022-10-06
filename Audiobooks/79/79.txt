@@ -1,0 +1,44 @@
+ 10:52		15272KB		01 Toy Story.mp3
+ 10:47		15156KB		02 Cars.mp3
+ 15:04		21199KB		03 Cars 3.mp3
+ 15:05		21217KB		04 Finding Dory.mp3
+ 19:20		27199KB		05 Mulan.mp3
+ 11:35		16294KB		06 The Lion King.mp3
+ 13:15		18622KB		07 Sofia The First  The Tale Of Miss Nettle.mp3
+ 13:33		19062KB		08 The Power Of The Roar.mp3
+ 15:54		22359KB		09 Onward.mp3
+ 11:32		16225KB		10 First day of rule  Elena Of Avalor.mp3
+ 14:15		20031KB		11 Inside Out.mp3
+ 10:03		14125KB		12 101 Dalmatians.mp3
+ 12:33		17644KB		13 Vampirina  Vee's Slumber Party.mp3
+ 14:38		20588KB		14 DuckTales  Woo-Oo!.mp3
+ 18:21		25800KB		15 The Nutcracker And The Four Realms.mp3
+ 11:51		16654KB		16 The Scariest Halloween Story Ever  Mickey Mouse.mp3
+ 12:28		17538KB		17 Mickey's Christmas Carol.mp3
+ 8:34		12044KB		18 Peter Pan.mp3
+ 10:24		14620KB		19 Wreck-It Ralph.mp3
+ 10:12		14337KB		20 Frozen.mp3
+ 22:13		31241KB		21 Moana.mp3
+ 12:10		17099KB		22 Frozen II.mp3
+ 12:09		17093KB		23 Tangled.mp3
+ 12:16		17241KB		24 Tangled Ever After.mp3
+ 10:04		14155KB		25 Cinderella.mp3
+ 12:04		16968KB		26 Beauty And The Beast.mp3
+ 12:02		16933KB		27 The Little Mermaid.mp3
+ 11:01		15486KB		28 Dumbo.mp3
+ 17:40		24849KB		29 Co Co.mp3
+ 19:56		28043KB		30 Pocahontas.mp3
+ 9:39		13574KB		31 Olaf's Frozen Adventure.mp3
+ 4:11		5886KB		32 Olaf's Night Before Christmas.mp3
+ 10:56		15377KB		33 Toy Story.mp3
+ 10:03		14136KB		34 Toy Story 2.mp3
+ 8:32		11996KB		35 Toy Story 3.mp3
+ 19:11		26978KB		36 Tim Burton's The Nightmare Before Christmas.mp3
+ 9:12		12932KB		37 Finding Nemo.mp3
+ 17:50		25086KB		38 The Good Dinosaur.mp3
+ 20:30		28839KB		39 Luca.mp3
+ 15:40		22034KB		40 Toy Story 4.mp3
+ 11:00		15470KB		41 Puppy Dog Pals  Adventures In Puppy-Sitting.mp3
+ 18:56		26635KB		42 Incredibles 2.mp3
+ 14:27		20318KB		43 Soul.mp3
+ 12:53		18127KB		44 Sleeping Beauty.mp3

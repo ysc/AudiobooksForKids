@@ -1,0 +1,64 @@
+ 2:20		3288KB		00-0 0492 My Dad.MP3
+ 3:42		5205KB		00-0 1230 My Dad.MP3
+ 2:54		4087KB		00-0 1231 My Dad.MP3
+ 2:47		3916KB		00-0 1232 My Dad.MP3
+ 2:16		3184KB		00-0 1233 My Dad.MP3
+ 2:17		3206KB		00-0 1234 My Dad.MP3
+ 2:07		2987KB		00-1 0493 My Mum.MP3
+ 4:10		5866KB		00-1 1235 My Mum.MP3
+ 4:07		5783KB		00-1 1236 My Mum.MP3
+ 1:51		2600KB		00-1 1237 My Mum.MP3
+ 2:11		3063KB		00-1 1238 My Mum.MP3
+ 1:53		2659KB		00-1 1239 My Mum.MP3
+ 2:51		6690KB		00-2 0517 I Like books.mp3
+ 3:30		8195KB		00-2 0518 I Like books.mp3
+ 0:32		1261KB		00-2 0519 I Like books.mp3
+ 1:56		4533KB		00-2 0520 I Like books.mp3
+ 2:02		2873KB		01 0508 Thing I Like.mp3
+ 4:17		6027KB		01 0509 Thing I Like.mp3
+ 2:32		3571KB		01 0510 Thing I Like.mp3
+ 2:02		2873KB		01 0511 Thing I Like.mp3
+ 2:02		2873KB		01 0512 Thing I Like.mp3
+ 5:36		13169KB		02 0455 Piggybook.mp3
+ 5:43		13468KB		02 0456 Piggybook.mp3
+ 2:01		2917KB		03 0672 Bear Hunt.mp3
+ 2:31		3601KB		03 0673 Bear Hunt.mp3
+ 3:04		4377KB		03 0674 Bear Hunt.mp3
+ 3:34		5096KB		03 0675 Bear Hunt.mp3
+ 2:02		2933KB		03 0676 Bear Hunt.mp3
+ 2:56		6872KB		04 0666 A Bear-y Tale.mp3
+ 1:39		3873KB		04 0667 A Bear-y Tale.mp3
+ 1:35		3720KB		04 0668 A Bear-y Tale.mp3
+ 1:24		3300KB		04 0669 A Bear-y Tale.mp3
+ 2:50		6638KB		04 0670 A Bear-y Tale.mp3
+ 2:51		6689KB		04 0671 A Bear-y Tale.mp3
+ 2:07		3411KB		05 0326 How do you feel.mp3
+ 4:25		6648KB		05 0327 How do you feel.mp3
+ 2:43		4263KB		05 0328 How do you feel.mp3
+ 2:03		3317KB		05 0329 How do you feel.mp3
+ 2:04		2915KB		05 0330 How do you feel.mp3
+ 1:38		2303KB		06 0467 My brother.mp3
+ 6:26		9046KB		06 0468 My brother.mp3
+ 3:22		4733KB		06 0469 My brother.mp3
+ 5:34		7830KB		06 0470 My brother.mp3
+ 1:39		2336KB		06 0471 My brother.mp3
+ 7:05		9976KB		07 0783 Gorilla w.MP3
+ 7:04		9932KB		07 1219 Gorilla w-o.MP3
+ 2:28		4040KB		08 0494 Willy the Drearmer.mp3
+ 3:09		5171KB		08 0495 Willy the Drearmer.mp3
+ 4:00		6567KB		08 0496 Willy the Drearmer.mp3
+ 2:24		3937KB		08 0497 Willy the Drearmer.mp3
+ 2:22		3882KB		08 0498 Willy the Drearmer.mp3
+ 3:04		4319KB		08 1143 Willy the Dreamer.mp3
+ 5:40		7977KB		09 1220 Little Beauty.MP3
+ 4:56		6936KB		09 1221 Little Beauty.MP3
+ 3:33		5007KB		09 1222 Little Beauty.MP3
+ 6:41		9391KB		10 1246 Look What I've Got!.MP3
+ 5:43		8033KB		10 1247 Look What I've Got!.MP3
+ 3:50		5388KB		10 1248 Look What I've Got!.MP3
+ 3:30		4923KB		11 1144 Willy the Wimp.mp3
+ 2:08		3007KB		12 1150 Willy the Champ.mp3
+ 4:34		6428KB		13 1149 Willy and the Cloud.mp3
+ 4:03		5694KB		14 1145 Willy's Pictures.mp3
+ 5:37		7897KB		15 1450 Silly Billy.MP3
+ 4:34		6424KB		15 1451  Silly Billy.MP3
