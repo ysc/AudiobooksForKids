@@ -130,3 +130,6 @@ Children's Audiobooks:
 126 A Treasury of Songs by Julia Donaldson (1 books 54 minutes)
 127 Lucy Cousins Treasury of Nursery Rhymes (1 books 21 minutes)
 128 Axel Scheffler Treasury Of Rhyming Stories (1 books 8 minutes)
+
+Total Books: 1781 (cat README  | awk -F '(' '{print $2}' | awk -F ' books' '{print $1}' | awk '{sum+=$1} END {print sum}')
+
