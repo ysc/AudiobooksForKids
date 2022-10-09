@@ -132,4 +132,5 @@ Children's Audiobooks,:
 128 Axel Scheffler Treasury Of Rhyming Stories (1 books, 8 minutes)
 
 Total Books: 1781 (cat README  | awk -F '(' '{print $2}' | awk -F ' books' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Hours: 305 (cat README | grep hour  | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}'  | awk '{sum+=$1} END {print sum}')
 
