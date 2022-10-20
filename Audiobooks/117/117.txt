@@ -1,0 +1,67 @@
+ 3:15		4563KB		01 1294 The Very Hungry Caterpillar.mp3
+ 3:42		5199KB		01 1295 The Very Hungry Caterpillar.mp3
+ 5:38		7924KB		01 1296 The Very Hungry Caterpillar.mp3
+ 3:07		4392KB		01 1297 The Very Hungry Caterpillar.mp3
+ 3:39		5126KB		01 1298 The Very Hungry Caterpillar.mp3
+ 3:00		4224KB		01 1299 The Very Hungry Caterpillar.mp3
+ 3:15		4567KB		01 1300 The Very Hungry Caterpillar.mp3
+ 3:07		4390KB		01 1301 The Very Hungry Caterpillar.mp3
+ 3:48		5340KB		01 1530 The Very Hungry Caterpillar - with new page sounds.mp3
+ 3:19		4671KB		01 1531 The Very Hungry Caterpillar - without new page sounds.mp3
+ 3:28		3317KB		01 1532 The Very Hungry Caterpillar(with signals).mp3
+ 2:35		3640KB		02 1302 Brown bear Brown bear what do you see.mp3
+ 3:07		4382KB		02 1303 Brown bear Brown bear what do you see.mp3
+ 2:23		3357KB		02 1304 Brown bear Brown bear what do you see.mp3
+ 2:22		3322KB		02 1305 Brown bear Brown bear what do you see.mp3
+ 2:25		3406KB		02 1306 Brown bear Brown bear what do you see.mp3
+ 3:48		3569KB		03 1289 Polar Bear What Do You Hear.mp3
+ 3:25		3200KB		03 1290 Polar Bear What Do You Hear.mp3
+ 3:53		3645KB		03 1291 Polar Bear What Do You Hear.mp3
+ 3:37		3387KB		03 1292 Polar Bear What Do You Hear.mp3
+ 3:37		3389KB		03 1293 Polar Bear What Do You Hear.mp3
+ 3:19		3110KB		04 1321  Panda bear What Do You See.mp3
+ 4:17		4022KB		04 1326  Panda bear What Do You See.mp3
+ 3:52		3620KB		04 1327  Panda bear What Do You See.mp3
+ 6:08		5757KB		04 1328  Panda bear What Do You See.mp3
+ 3:10		2967KB		04 1329  Panda bear What Do You See.mp3
+ 2:27		2296KB		05 1335 Baby Bear What Do You See.mp3
+ 3:13		3015KB		05 1336 Baby Bear What Do You See.mp3
+ 3:36		3377KB		05 1337 Baby Bear What Do You See.mp3
+ 2:16		2133KB		05 1338 Baby Bear What Do You See.mp3
+ 2:18		2154KB		05 1339 Baby Bear What Do You See.mp3
+ 2:29		3498KB		06 1330 From Head to Toe.mp3
+ 4:53		6866KB		06 1331 From Head to Toe.mp3
+ 4:55		6914KB		06 1332 From Head to Toe.mp3
+ 4:54		6897KB		06 1333 From Head to Toe.mp3
+ 2:29		3498KB		06 1334 From Head to Toe.mp3
+ 2:35		3626KB		07 1312 Today is Monday.mp3
+ 2:50		3998KB		07 1313 Today is Monday.mp3
+ 2:36		3659KB		07 1314 Today is Monday.mp3
+ 2:29		3505KB		07 1315 Today is Monday.mp3
+ 2:31		3539KB		07 1316 Today is Monday.mp3
+ 2:56		4118KB		08 0372 The Secret Birthday Message.mp3
+ 3:50		5400KB		08 0373 The Secret Birthday Message.mp3
+ 4:01		5659KB		08 0374 The Secret Birthday Message.mp3
+ 4:00		5632KB		08 0375 The Secret Birthday Message.mp3
+ 2:55		4106KB		08 0376 The Secret Birthday Message.mp3
+ 2:56		6875KB		09 1228 Little Cloud.mp3
+ 2:43		6364KB		09 1274 Little Cloud.mp3
+ 2:16		5312KB		09 1275 Little Cloud.mp3
+ 4:52		11406KB		09 1276 Little Cloud.mp3
+ 2:48		6561KB		09 1277 Little Cloud.mp3
+ 2:49		6591KB		09 1278 Little Cloud.mp3
+ 3:31		4939KB		10 1279 The Mixed-Up Chameleon.mp3
+ 5:05		7156KB		10 1280 The Mixed-Up Chameleon.mp3
+ 5:05		7157KB		10 1281 The Mixed-Up Chameleon.mp3
+ 5:20		7505KB		10 1282 The Mixed-Up Chameleon.mp3
+ 3:23		4752KB		10 1283 The Mixed-Up Chameleon.mp3
+ 5:32		12969KB		11 0190 Papa, Please get the Moon for me.mp3
+ 5:50		13662KB		11 0191  Papa, Please get the Moon for me.mp3
+ 3:36		3381KB		12 1080 10 Little Rubber Ducks.mp3
+ 4:41		6587KB		12 1455 10 LITTLE RUBBER DUCKS by Eric Carle.mp3
+ 5:12		7303KB		13 1533 Do You Want to Be My Friend Song.mp3
+ 3:56		5531KB		14 0029 Does a kangaroo have a mother too.mp3
+ 3:41		5176KB		14 0030 Does a kangaroo have a mother too.mp3
+ 6:00		8436KB		14 0031 Does a kangaroo have a mother too.mp3
+ 3:53		5475KB		14 0032 Does a kangaroo have a mother too.mp3
+ 3:54		5483KB		14 0033 Does a kangaroo have a mother too.mp3

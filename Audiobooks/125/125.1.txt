@@ -1,0 +1,71 @@
+ 4:30		10550KB		01 0225 Mouse Paint.mp3
+ 4:35		10734KB		01 0226 Mouse Paint.mp3
+ 4:26		10386KB		01 0227 Mouse Paint.mp3
+ 2:24		2664KB		02 0504 I Went Walking.mp3
+ 2:12		2206KB		02 0505 I Went Walking.mp3
+ 2:19		2614KB		02 0506 I Went Walking.mp3
+ 1:13		2890KB		02 0507 I Went Walking.mp3
+ 1:50		1723KB		03 0682 My Friend.mp3
+ 3:01		2831KB		03 0683 My Friend.mp3
+ 2:27		2293KB		03 0684 My Friend.mp3
+ 3:21		3145KB		03 0685 My Friend.mp3
+ 1:49		1709KB		03 0686 My Friend.mp3
+ 4:51		2277KB		04 0089 The Carrot Seed.mp3
+ 3:17		1546KB		04 0090 The Carrot Seed.mp3
+ 2:29		1170KB		04 0091 The Carrot Seed.mp3
+ 3:07		1463KB		04 0092 The Carrot Seed.mp3
+ 3:07		1465KB		04 0093 The Carrot Seed.mp3
+ 2:39		3737KB		05 0084 Silly Sally.mp3
+ 4:46		6715KB		05 0085 Silly Sally.mp3
+ 2:46		3885KB		05 0086 Silly Sally.mp3
+ 2:36		3665KB		05 0087 Silly Sally.mp3
+ 2:13		3116KB		05 0088 Silly Sally.mp3
+ 1:16		1902KB		06 0677 Chicka Chicka ABC.mp3
+ 1:51		2727KB		06 0678 Chicka Chicka ABC.mp3
+ 2:56		4248KB		06 0679 Chicka Chicka ABC.mp3
+ 1:12		1812KB		06 0680 Chicka Chicka ABC.mp3
+ 2:22		3439KB		06 0681 Chicka Chicka ABC.mp3
+ 2:04		4854KB		07 0208 Rosie's Walk.mp3
+ 2:03		4800KB		07 0209 Rosie's Walk.mp3
+ 2:07		4970KB		07 0210 Rosie's Walk.mp3
+ 2:03		4785KB		07 0211 Rosie's Walk.mp3
+ 2:01		4721KB		07 0212 Rosie's Walk.mp3
+ 2:46		6558KB		08 0200 Chicka Chicka boom boom.mp3
+ 4:48		11306KB		08 0201 Chicka Chicka boom boom.mp3
+ 6:16		14767KB		08 0202 Chicka Chicka boom boom.mp3
+ 2:33		6038KB		08 0203 Chicka Chicka boom boom.mp3
+ 2:34		6074KB		08 0204 Chicka Chicka boom boom.mp3
+ 5:11		7290KB		09 0034 Hattie and the Fox.mp3
+ 5:03		7110KB		09 0035 Hattie and the Fox.mp3
+ 6:12		8721KB		09 0036 Hattie and the Fox.mp3
+ 9:13		12965KB		09 0037 Hattie and the Fox.mp3
+ 5:05		7161KB		09 0038 Hattie and the Fox.mp3
+ 2:46		2592KB		10 0195 Each peach pear plum.mp3
+ 5:59		5615KB		10 0196 Each peach pear plum.mp3
+ 3:43		3477KB		10 0197 Each peach pear plum.mp3
+ 2:38		2467KB		10 0198 Each peach pear plum.mp3
+ 2:39		2480KB		10 0199 Each peach pear plum.mp3
+ 4:25		6218KB		11 0294 The Napping House.mp3
+ 4:01		5654KB		11 0295 The Napping House.mp3
+ 5:23		7560KB		11 0296 The Napping House.mp3
+ 4:22		6150KB		11 0297 The Napping House.mp3
+ 4:23		6163KB		11 0298 The Napping House.mp3
+ 3:49		3624KB		11 1369 The Napping House(with signals).mp3
+ 4:01		3816KB		11 1370 The Napping House(no signals).mp3
+ 3:19		3167KB		11 1371 The Napping House Song.mp3
+ 1:31		2138KB		12 0218 Color Zoo.mp3
+ 2:59		4204KB		12 0219 Color Zoo.mp3
+ 1:37		2288KB		12 0220 Color Zoo.mp3
+ 2:32		3568KB		12 0221 Color Zoo.mp3
+ 1:29		2101KB		12 0222 Color Zoo.mp3
+ 1:56		2794KB		13 0559 Hooray for fish.mp3
+ 4:22		6212KB		13 0560 Hooray for fish.mp3
+ 3:53		5524KB		13 0561 Hooray for fish.mp3
+ 1:53		2704KB		13 0562 Hooray for fish.mp3
+ 1:52		2680KB		13 0563 Hooray for fish.mp3
+ 3:58		5580KB		14 0305  I Ain-t Gonna Paint No More.mp3
+ 3:08		7361KB		14 0321 I Ain't Gonna Paint No More!.mp3
+ 5:16		12338KB		14 0322 I Ain't Gonna Paint No More!.mp3
+ 5:45		13480KB		14 0323 I Ain't Gonna Paint No More!.mp3
+ 3:01		7085KB		14 0324 I Ain't Gonna Paint No More!.mp3
+ 3:02		7112KB		14 0325 I Ain't Gonna Paint No More!.mp3

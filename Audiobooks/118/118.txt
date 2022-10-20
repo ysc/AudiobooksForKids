@@ -1,0 +1,8 @@
+ 1:31		2133KB		00 Song.MP3
+ 5:56		8337KB		01 The Robots.MP3
+ 6:23		8989KB		02 The Bucketful of Dinosaurs.MP3
+ 6:55		9733KB		03 Go Wild.MP3
+ 6:00		8435KB		04 Go to School.MP3
+ 6:53		9691KB		05 At the Museum.MP3
+ 7:59		11241KB		06 Have a Happy birthday.MP3
+ 5:02		7088KB		07 Say "Raahh!".MP3
