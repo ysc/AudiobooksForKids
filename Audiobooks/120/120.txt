@@ -1,0 +1,42 @@
+ 4:49		4569KB		01 1372 The Itsy Bitsy Spider(with signals).mp3
+ 3:21		3207KB		01 1373 The Itsy Bitsy Spider Song.mp3
+ 3:20		3186KB		01 1374 The Itsy Bitsy Spider Child's Voice(with signals).mp3
+ 3:10		3034KB		02 1362 Row Row Row Your Boat(with signals).mp3
+ 2:37		2508KB		02 1363 Row Row Row Your Boat Sing Along.mp3
+ 0:29		515KB		02 1364 Row Row Row Your Boat Sing Along as Round.mp3
+ 5:18		5056KB		03 1375 Is Your Mama A Llama(with signals).mp3
+ 5:16		5024KB		03 1376 Is Your Mama A Llama(no signals).mp3
+ 8:51		8318KB		04 1226 Can't You Sleep, Little Bear (with signals).mp3
+ 10:03		9441KB		04 1227 Can't You Sleep, Little Bear (no signals).mp3
+ 3:47		3590KB		05 1365 Noisy Nora(with signals).mp3
+ 3:21		4715KB		06 1224 Owl Babies.mp3
+ 4:18		6054KB		06 1225 Owl Babies.mp3
+ 3:28		4887KB		07 0514 Guess How Much I Love You.MP3
+ 5:37		7911KB		07 0516 Guess How Much I Love You.MP3
+ 7:05		6700KB		08 1541 Caps for Sale(with signals).mp3
+ 7:05		6700KB		08 1542 Caps for Sale(no signals).mp3
+ 14:28		20352KB		08 1543 Caps for Sale Read and Song(with signals).MP3
+ 13:26		18901KB		08 1544 Caps for Sale Read and Song(no signals).MP3
+ 7:04		3312KB		09 1550 Funnybones.mp3
+ 6:42		6325KB		10 0556 Happy Birthday Moon.mp3
+ 6:31		6150KB		10 0557 Happy Birthday Moon.mp3
+ 6:36		6227KB		10 0558 Happy Birthday Moon.mp3
+ 7:24		10400KB		11 1553 Mushroom in the Rain.MP3
+ 6:58		9811KB		11 1554 Mushroom in the Rain.MP3
+ 6:56		9746KB		11 1555 Mushroom in the Rain.MP3
+ 6:49		6389KB		12 0784 Corduroy.mp3
+ 10:58		10349KB		12 1339 Corduroy (with signals).mp3
+ 9:48		9259KB		12 1340 Corduroy (no signals).mp3
+ 9:58		14014KB		13 0760 Pumpkin Soup.mp3
+ 7:00		6604KB		14 1606 Diary of a Worm(with signals).mp3
+ 6:51		6460KB		14 1607 Diary of a Worm(no signals).mp3
+ 6:26		6077KB		15 1608 Harry the Dirty Dog (with signals) .mp3
+ 9:07		12833KB		15 1609 Harry the Dirty Dog (no signals) .mp3
+ 6:37		6206KB		16 1283 Daisy Eat Your Peas.mp3
+ 6:31		6119KB		16 1284 Daisy Eat Your Peas.mp3
+ 12:08		17067KB		17 1281 Miss Rumphius.MP3
+ 8:23		11803KB		17 1282 Miss Rumphius.MP3
+ 9:21		8768KB		18 1259 The Tiger Who Came to Tea.mp3
+ 13:21		12566KB		19 1256 Cloudy With a Chance of Meatballs (with signals).mp3
+ 13:11		12411KB		19 1257 Cloudy With a Chance of Meatballs (no signals).mp3
+ 9:56		9424KB		20 1616 Millions of Cats.mp3
