@@ -137,7 +137,7 @@ Children's Audiobooks:
 132 Craig Smith (5 books, 25 minutes)
 133 The Story Tree - Tales to Read Aloud (1 book, 37 minutes)
 134 Learning to Get Along (15 books, 58 minutes)
-135 Katie's Adventure (6 books, 1 hour 1 minute)
+135 Oxford Phonics World (10 books, 10 hours 50 minutes)
 136 Tales from Acorn Wood (4 books, 20 minutes)
 137 Oxford Reading Tree Stories 11-13 (18 books, 7 hours 30 minutes)
 138 Dinosaur (5 books,  22 minutes)
@@ -153,6 +153,7 @@ Children's Audiobooks:
 148 The Titchy Witch Collection (12 books, 56 minutes)
 149 The Famous Five Short Stories Collection (7 books, 2 hours 16 minutes)
 150 Ricky Ricotta's Mighty Robot (9 books, 4 hours 9 minutes)
+151 Katie's Adventure (6 books, 1 hour 1 minute)
 
 Total Books: 2154 (cat README  | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
 Total Time: 453 hours (let h=`cat README | grep hour  | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}'  | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep -v hour  | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
