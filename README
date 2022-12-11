@@ -150,11 +150,10 @@ Children's Audiobooks:
 145 Even My Ears Are Smiling (1 book,  1 hour 2 minutes)
 146 Lilly & Friends A Picture Book Treasury (9 books, 1 hour 30 minutes)
 147 The Mr. Men (18 books, 2 hours)
-148 The Titchy Witch Collection (12 books, 56 minutes)
+148 Marvel Storybook Collection & 5-Minute Marvel Stories (1 book, 2 hours 51 minutes)
 149 The Famous Five Short Stories Collection (7 books, 2 hours 16 minutes)
 150 Ricky Ricotta's Mighty Robot (9 books, 4 hours 9 minutes)
 151 Katie's Adventure (6 books, 1 hour 1 minute)
-152 Marvel Storybook Collection & 5-Minute Marvel Stories (1 book, 2 hours 51 minutes)
 153 Oxford Classic Tales (39 books,  9 hours 3 minutes)
 
 Total Books: 2296 (cat README  | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
