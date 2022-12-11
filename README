@@ -154,7 +154,7 @@ Children's Audiobooks:
 149 The Famous Five Short Stories Collection (7 books, 2 hours 16 minutes)
 150 Ricky Ricotta's Mighty Robot (9 books, 4 hours 9 minutes)
 151 Katie's Adventure (6 books, 1 hour 1 minute)
-153 Oxford Classic Tales (39 books,  9 hours 3 minutes)
+152 Oxford Classic Tales (39 books,  9 hours 3 minutes)
 
-Total Books: 2296 (cat README  | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
-Total Time: 479 hours (let h=`cat README | grep hour  | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}'  | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep -v hour  | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
+Total Books: 2286 (cat README  | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Time: 477 hours (let h=`cat README | grep hour  | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}'  | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep -v hour  | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
