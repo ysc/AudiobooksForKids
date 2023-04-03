@@ -1,0 +1,29 @@
+ 4:41		4386KB		1.1 Dorothy.mp3
+ 6:39		6248KB		1.2 Safari Park.mp3
+ 6:32		6136KB		1.3 The Enormous Turnip.mp3
+ 7:47		2739KB		1.4 The Ugly Duckling.mp3
+ 7:59		2809KB		2.1 Little Red Riding Hood.mp3
+ 18:32		17377KB		2.2 Mowgli Learns to Swim.mp3
+ 18:20		17189KB		2.3 The Mad Teacher.mp3
+ 18:59		17804KB		3.1 Bugaboo the Wicked Witch.mp3
+ 9:09		6441KB		3.2 Cinderella.mp3
+ 19:16		18066KB		3.3 Monster in the Box.mp3
+ 7:44		10890KB		3.4 The Little Mermaid.mp3
+ 14:53		13960KB		3.5 The Jungle Book.mp3
+ 9:51		9242KB		4.1 Aesop's Fables.mp3
+ 15:22		14408KB		4.10 The Magic Computer Mouse.mp3
+ 25:46		24158KB		4.2 Christmas Fun.mp3
+ 18:04		16935KB		4.3 Dracula and His Family.mp3
+ 28:02		26278KB		4.4 Festivals!.mp3
+ 29:02		27211KB		4.5 Frankenstein at School.mp3
+ 24:42		23155KB		4.6 Freddy Finds the Thief.mp3
+ 8:04		7562KB		4.7 Puss in boots.mp3
+ 10:20		9694KB		4.8 Sleeping Beauty.mp3
+ 16:25		15384KB		4.9 Space Monsters.mp3
+ 14:43		13799KB		5.1 Aladdin.mp3
+ 12:18		11537KB		5.2 Ali Baba and the Forty Thieves.mp3
+ 13:45		12895KB		5.3 Nasreddin Ten Stories.mp3
+ 12:58		12159KB		5.4 Snow White and the Seven Dwarfs.mp3
+ 22:35		21180KB		5.5 The Canterville Ghost.mp3
+ 15:57		14958KB		5.6 Two Monsters.mp3
+ 29:26		27599KB		5.7 Zed the Magician.mp3

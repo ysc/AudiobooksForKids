@@ -1,0 +1,72 @@
+ 6:06		2862KB		1-1 Max's Box.mp3
+ 4:57		2322KB		1-2 In the Sky.mp3
+ 5:01		2358KB		1-3 Splat.mp3
+ 4:30		2113KB		1-4 Max's Rocket.mp3
+ 3:37		1701KB		1-5 The Fishing Trip.mp3
+ 3:46		1772KB		1-6 Let's Bake.mp3
+ 4:29		2106KB		1-7 Tin Cat.mp3
+ 3:38		1708KB		1-8 Sit, Cog Dog.mp3
+ 3:51		1807KB		1-9 Get Ant.mp3
+ 3:51           1808KB          1-10 Peg It Up.mp3
+ 3:50           1799KB          1-11 Run, Tin Cat.mp3
+ 3:54           1830KB          1-12 Peck, Peck.mp3 
+ 5:14		2455KB		2-1 An Odd Bug.mp3
+ 4:48		2250KB		2-2 Nok Can Fix It.mp3
+ 4:27		2089KB		2-3 Cat's Picnic.mp3
+ 4:38		2174KB		2-4 A Bag of Tricks.mp3
+ 4:34		2145KB		2-5 Moths.mp3
+ 4:46		2235KB		2-6 Tiger's Fish.mp3
+ 5:35		2617KB		3-1 On Nok's Trail.mp3
+ 4:44		2221KB		3-2 I win.mp3
+ 4:59		2343KB		3-3 Popcorn Suring.mp3
+ 5:04		2377KB		3-4 Stuck in the Mud.mp3
+ 5:11		2435KB		3-5 The Lost Cow.mp3
+ 5:16		2469KB		3-6 The Rocket Flight.mp3
+ 5:52		2757KB		4-1 Cat's Painting.mp3
+ 5:15		2467KB		4-2 It's too hot.mp3
+ 5:26		2551KB		4-3 Helter-Skelter.mp3
+ 5:14		2458KB		4-4 Funfair Fun.mp3
+ 5:32		2600KB		4-5 A Shock for Nok.mp3
+ 5:38		2644KB		4-6 Goal.mp3
+ 6:54		3235KB		5-1 The Seagull.mp3
+ 6:16		2941KB		5-2 Claws.mp3
+ 5:43		2684KB		5-3 The Parachute.mp3
+ 6:18		2956KB		5-4 Molly's New Toy.mp3
+ 6:28		3033KB		5-5 Nok's Lunch.mp3
+ 6:27		3028KB		5-6 Nok Gets Homesick.mp3
+ 9:13		4325KB		6-1 An amazing Find.mp3
+ 8:12		3844KB		6-2 Blast Off.mp3
+ 9:06		4267KB		6-3 Don't Press the Buttons.mp3
+ 7:33		3546KB		6-4 Worm Song.mp3
+ 7:46		3644KB		6-5 Spacewalk.mp3
+ 8:03		3775KB		6-6 The Junk Cruncher.mp3
+ 9:25		13231KB		7-1 Planet Exis.mp3
+ 9:03		12724KB		7-2 Attack of the Buzzles.mp3
+ 9:47		13761KB		7-3 The Empty Palace.mp3
+ 10:37		14938KB		7-4 Battle with the Beast.mp3
+ 9:59		14044KB		7-5 Nurp Stampede.mp3
+ 9:26		13273KB		7-6 The Trap.mp3
+ 10:04		14160KB		8-1 Tiger X 4.mp3
+ 10:28		14720KB		8-2 The Sans of Akwa.mp3
+ 9:51		13862KB		8-3 Holo-board Havoc.mp3
+ 9:43		13655KB		8-4 Ant's Pact.mp3
+ 10:18		14475KB		8-5 The Screams of the Raptiss.mp3
+ 9:24		13208KB		8-6 The Secret Whirlpool.mp3
+ 11:50		16647KB		9-1 The Crystal Planet.mp3
+ 11:43		16485KB		9-2 The Ruby Cage.mp3
+ 11:27		16095KB		9-3 The Hunt for Nok.mp3
+ 11:13		15784KB		9-4 Race to the Pyramid.mp3
+ 10:55		15343KB		9-5 One step ahead.mp3
+ 11:16		15851KB		9-6 chamber of Treasures.mp3
+ 15:24		21645KB		10-1 swamp crash.mp3
+ 16:06		22642KB		10-2 spaceship Graveyard.mp3
+ 16:03		22572KB		10-3 Fear Forst.mp3
+ 14:28		20340KB		10-4 Attack of the Giant Meeb.mp3
+ 15:32		21835KB		10-5 The Cave of Life.mp3
+ 16:12		22774KB		10-6 Save the world.mp3
+ 15:56		22405KB		11-1 Space Hunt.mp3
+ 17:09		24124KB		11-2 The Deadly Cave.mp3
+ 16:09		22718KB		11-3 Grumptus Attack.mp3
+ 15:45		22157KB		11-4 The Mines of Moxor.mp3
+ 15:49		22232KB		11-5 The Contest.mp3
+ 16:18		22929KB		11-6 Return to Exis.mp3
