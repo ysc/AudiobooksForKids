@@ -49,16 +49,24 @@
  4:00		6567KB		08 0496 Willy the Drearmer.mp3
  2:24		3937KB		08 0497 Willy the Drearmer.mp3
  2:22		3882KB		08 0498 Willy the Drearmer.mp3
- 3:04		4319KB		08 1143 Willy the Dreamer.mp3
+ 2:59		6989KB		08 1143 Willy the Dreamer.mp3
  5:40		7977KB		09 1220 Little Beauty.MP3
  4:56		6936KB		09 1221 Little Beauty.MP3
  3:33		5007KB		09 1222 Little Beauty.MP3
  6:41		9391KB		10 1246 Look What I've Got!.MP3
  5:43		8033KB		10 1247 Look What I've Got!.MP3
  3:50		5388KB		10 1248 Look What I've Got!.MP3
- 3:30		4923KB		11 1144 Willy the Wimp.mp3
- 2:08		3007KB		12 1150 Willy the Champ.mp3
- 4:34		6428KB		13 1149 Willy and the Cloud.mp3
- 4:03		5694KB		14 1145 Willy's Pictures.mp3
+ 2:56		2750KB		10 Look What I've Got.mp3
+ 3:26		8056KB		11 1144 Willy the Wimp.mp3
+ 2:04		4844KB		12 1150 Willy the Champ.mp3
+ 4:29		10524KB		13 1149 Willy and the Cloud.mp3
+ 3:11		1493KB		13 1617 Willy and the Cloud.mp3
+ 3:58		9289KB		14 1145 Willy's Pictures.mp3
  5:37		7897KB		15 1450 Silly Billy.MP3
  4:34		6424KB		15 1451  Silly Billy.MP3
+ 4:00		3755KB		15 Silly Billy.mp3
+ 2:32		1186KB		16 1618 Willy and Hugh.mp3
+ 2:06		1966KB		17 Changes.mp3
+ 5:00		11703KB		18 Into the Forest.mp3
+ 4:35		10729KB		19 The Tunnel.mp3
+ 2:29		5806KB		20 Through the Magic Mirror.mp3
