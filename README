@@ -95,7 +95,7 @@ Children's Audiobooks:
 92 Alexander (3 books, 46 minutes)
 93 Percy The Park Keeper (6 books, 1 hour )
 94 Anthony Browne (20 books, 3 hours 57 minutes)
-95 Caldecott Winner (20 books, 4 hours 55 minutes)
+95 Caldecott Winner (21 books, 5 hours 5 minutes)
 96 Caldecott Honor (20 books, 5 hours 34 minutes)
 96 Caldecott Honor Board (7 books, 1 hour 39 minutes)
 97 The Large Family (5 books, 38 minutes)
@@ -154,5 +154,5 @@ Children's Audiobooks:
 149 Oxford Reading Tree Treetops Greatest Stories (36 books, 37 hours 26 minutes)
 150 The Famous Five Adventures Collection (7 books, 2 hours 16 minutes)
 
-Total Books: 2310 (cat README  | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Books: 2311 (cat README  | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
 Total Time: 510 hours (let h=`cat README | grep hour  | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}'  | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep -v hour  | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}'  | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
