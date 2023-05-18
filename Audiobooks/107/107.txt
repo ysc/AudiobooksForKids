@@ -1,12 +1,365 @@
- 79:10		111336KB		01.mp3
- 80:28		113166KB		02.mp3
- 81:15		114246KB		03.mp3
- 79:55		112377KB		04.mp3
- 78:35		110497KB		05.mp3
- 76:40		107802KB		06.mp3
- 79:32		111841KB		07.mp3
- 78:49		110835KB		08.mp3
- 78:48		110815KB		09.mp3
- 78:59		111063KB		10.mp3
- 77:56		109602KB		11.mp3
- 77:59		109665KB		12.mp3
+ 2:26		3417KB		01 01 Fish In the Street.mp3
+ 2:26		3416KB		01 02 Did It Hurt.mp3
+ 2:12		3082KB		01 03 Tooth Fairy.mp3
+ 2:30		3521KB		01 04 Picture On My Desk.mp3
+ 2:32		3564KB		01 05 Snowed Under.mp3
+ 2:24		3368KB		01 06 A Blind Man.mp3
+ 2:11		3068KB		01 07 My First Day As A Teacher+.mp3
+ 2:23		3361KB		01 08  Noodles For Mom.mp3
+ 2:25		3408KB		01 09 The Monkeys And The Fish+.mp3
+ 2:47		3905KB		01 10  Dinosaur Dung.mp3
+ 2:30		3518KB		01 11 When an Apple Falls.mp3
+ 1:50		2571KB		01 12  Surprises For Everyone+.mp3
+ 2:57		4141KB		01 13  No Snakes in Ireland+.mp3
+ 2:56		4123KB		01 14 Flightless Bird.mp3
+ 2:23		3361KB		01 15 The Boy Named Liam.mp3
+ 2:51		4004KB		01 16 A Children's World Game.mp3
+ 2:31		3527KB		01 17  Father's Dream+.mp3
+ 2:41		3768KB		01 18 A Well-Kept Secret.mp3
+ 2:17		3202KB		01 19 The Tickets.mp3
+ 2:59		4197KB		01 20 I Caught Cold.mp3
+ 2:44		3833KB		01 21  A Movie Full of Memories.mp3
+ 3:09		4421KB		01 22  How the Porcupine Got the Quill+.mp3
+ 2:07		2971KB		01 23  Faster Than The Internet+.mp3
+ 2:32		3555KB		01 24 Growing Lesson+.mp3
+ 2:39		3729KB		01 25  What Will Be, Will Be.mp3
+ 2:24		3370KB		01 26 Why We Cry++.mp3
+ 2:46		3895KB		01 27 Renewable Living.mp3
+ 2:39		3718KB		01 28 A Driving Lesson+.mp3
+ 2:36		3645KB		01 29 Coat of Many Colours+.mp3
+ 2:47		3925KB		01 30 Collecting things+.mp3
+ 2:41		3784KB		01 31 Getting Fire Under Control+.mp3
+ 2:56		4125KB		02 01 Paper Plane+.mp3
+ 3:14		4539KB		02 02 A Shark Visit++.mp3
+ 3:20		4681KB		02 03 Ice Fishing+.mp3
+ 3:18		4631KB		02 04 School Picnic Day++.mp3
+ 3:06		4357KB		02 05 A Neverous Flyer+.mp3
+ 2:59		4196KB		02 06 The Many Ways of Sleeping+.mp3
+ 3:02		4268KB		02 07 The Little Bird And Fire.mp3
+ 2:53		4055KB		02 08  I  Was Late+.mp3
+ 2:43		3817KB		02 09 When You Don't Know+.mp3
+ 2:44		3853KB		02 10  In the Spirit of Fairness++.mp3
+ 2:47		3909KB		02 11 Christmas Memory.mp3
+ 2:55		4105KB		02 12 The Talking Machine.mp3
+ 2:44		3834KB		02 13 Two Brothers One Dream++.mp3
+ 2:52		4031KB		02 14 Camels - A Perfect Design++.mp3
+ 2:29		3486KB		02 15  Life Is A Swimming Pool+.mp3
+ 2:21		3298KB		02 16 The Wise Man And The Fruit Tree+.mp3
+ 2:51		4009KB		02 17 Lost and Found.mp3
+ 2:58		4165KB		02 18 The Dog and the Cherry Blossom.mp3
+ 2:49		3954KB		02 19 Tomato - Fruit or Vegetable+.mp3
+ 3:01		4234KB		02 20  King of Fruits++.mp3
+ 2:31		3528KB		02 21 The Snowball Fight+.mp3
+ 2:40		3739KB		02 22 How to Fix a Mistake.mp3
+ 3:10		4448KB		02 23 Handy Facts+.mp3
+ 2:41		3766KB		02 24 Planting for the Future++.mp3
+ 3:01		4253KB		02 25  Name That Place++.mp3
+ 2:48		3939KB		02 26 The North Star.mp3
+ 2:44		3840KB		02 27 A Lucky Cat+.mp3
+ 2:56		4136KB		02 28 The Rain Kept Falling+.mp3
+ 3:11		4485KB		03 01 A Birds Nest+.mp3
+ 2:48		3944KB		03 02 The Rower++.mp3
+ 2:45		3869KB		03 03 Two Peas In  A Pod+++.mp3
+ 2:25		3387KB		03 04 A Birthday Wish+.mp3
+ 2:30		3523KB		03 05 Your lucky day++.mp3
+ 2:25		3405KB		03 06 Getting The Coconut Home+.mp3
+ 2:45		3872KB		03 07  Mosquito++.mp3
+ 2:30		3511KB		03 08 Remembering The Future.mp3
+ 2:43		3824KB		03 09 A Gift of Growing+.mp3
+ 2:11		3079KB		03 10 I Should Have Stayed In Bed+.mp3
+ 2:39		3723KB		03 11 Who Wins++.mp3
+ 2:26		3431KB		03 12 One Way Traffic.mp3
+ 2:32		3559KB		03 13 What Type Is Your Blood.mp3
+ 2:47		3904KB		03 14 The Elephant and Wind.mp3
+ 2:41		3783KB		03 15 Facing My Fear+.mp3
+ 2:49		3970KB		03 16 Quite A Family.mp3
+ 2:18		3228KB		03 17 Treasure Hunt+.mp3
+ 2:30		3511KB		03 18 Delicious Green Cake+.mp3
+ 3:01		4236KB		03 19 Silk, Stronger Than You Think.mp3
+ 2:39		3729KB		03 20 Taking Care Elsie.mp3
+ 2:23		3342KB		03 21 Why I Play Sports.mp3
+ 2:49		3969KB		03 22  He's Healthier Than Before++.mp3
+ 2:24		3371KB		03 23 The Old Man And The Wolf++.mp3
+ 2:55		4104KB		03 24 Saving For A New Car+.mp3
+ 2:35		3641KB		03 25 Trying New Things+.mp3
+ 2:31		3527KB		03 26 Gunpowder.mp3
+ 2:09		3017KB		03 27 Tea Time+.mp3
+ 2:35		3644KB		03 28 Learning To Sing+.mp3
+ 2:57		4155KB		03 29 Somewhere Over The Rainbow++.mp3
+ 2:45		3863KB		03 30  Brave David Kill The Giant++.mp3
+ 2:37		3671KB		03 31 Never A Perfect Mark.mp3
+ 3:12		4491KB		04 01 Sweet Treat From the Forest++.mp3
+ 2:19		3252KB		04 02 Learning A Lesson.mp3
+ 2:29		3503KB		04 03 Making A Difference+.mp3
+ 2:27		3434KB		04 04 Chicks Hatching I.mp3
+ 2:26		3417KB		04 05 Chicks Hatching II+.mp3
+ 2:31		3541KB		04 06 A Strange Hobby+.mp3
+ 2:38		3697KB		04 07 A Small Gift+.mp3
+ 2:39		3718KB		04 08 Marco Polo+.mp3
+ 3:01		4231KB		04 09 Bees, Farmers Friend++.mp3
+ 2:45		3869KB		04 10 Tin Can And Science++.mp3
+ 2:53		4064KB		04 11 Woman And Her Apple Tree+.mp3
+ 2:38		3710KB		04 12 Playing Chess++.mp3
+ 3:10		4454KB		04 13 The History of Bicycle.mp3
+ 2:39		3721KB		04 14 Meeting In The Middle+.mp3
+ 2:37		3690KB		04 15 The Car Ride.mp3
+ 2:21		3298KB		04 16 A Movie Night+.mp3
+ 2:53		4043KB		04 17 Turning Garbage Into New Earth.mp3
+ 3:05		4331KB		04 18 Wispering Tree+.mp3
+ 2:56		4121KB		04 19 What Will I Be+.mp3
+ 2:31		3530KB		04 20 Mom Lost Her Keys++.mp3
+ 3:15		4559KB		04 21 Paper+.mp3
+ 2:22		3336KB		04 22 Smilling Renaldo++.mp3
+ 2:30		3511KB		04 23 The Masked Bandit+.mp3
+ 2:49		3967KB		04 24 Voice From The Past++.mp3
+ 2:43		3816KB		04 25 The Polanski Run+.mp3
+ 2:15		3159KB		04 26 The Prince And The Lion+.mp3
+ 2:32		3563KB		04 27 A Flying Whale+.mp3
+ 2:28		3480KB		04 28 Thorns Of The Rose+.mp3
+ 2:39		3717KB		04 29 Tower Of Confusion+.mp3
+ 2:16		3185KB		04 30 Flat Tire++.mp3
+ 2:46		3890KB		05 01 At the Market+.mp3
+ 2:40		3746KB		05 02 The Old Janitor++.mp3
+ 2:20		3276KB		05 03 A Hidden Talent+.mp3
+ 2:50		3986KB		05 04 Her Best Friend.mp3
+ 3:02		4264KB		05 05 Ice Box I+.mp3
+ 2:59		4203KB		05 06 Ice Box II+.mp3
+ 2:15		3173KB		05 07 Ideas Are Easy.mp3
+ 2:40		3756KB		05 08 Monsters+.mp3
+ 2:53		4043KB		05 09 Birthdays Around the World++.mp3
+ 2:31		3545KB		05 10 One Mothers Day Morning+.mp3
+ 2:32		3551KB		05 11 Mosquieto Patrol.mp3
+ 2:04		2897KB		05 12 Stick Together For Strength+.mp3
+ 2:21		3295KB		05 13 What Is It+.mp3
+ 2:30		3524KB		05 14 Sand Bag Day+.mp3
+ 2:22		3327KB		05 15 Why+.mp3
+ 2:53		4051KB		05 16 Whales, Swimming Mammels++.mp3
+ 2:19		3247KB		05 17 My Mother The Plummer++.mp3
+ 2:53		4062KB		05 18 An Unhappy Man.mp3
+ 2:25		3399KB		05 19 The Ox And The Cow.mp3
+ 2:47		3910KB		05 20 Special Gifts+.mp3
+ 1:55		2707KB		05 21 Blame It on Bad Luck+.mp3
+ 2:47		3925KB		05 22 A Day To Remember++.mp3
+ 2:11		3064KB		05 23 Sharing The Wealth+.mp3
+ 2:20		3289KB		05 24 Who Do You Call Your Friends.mp3
+ 2:58		4168KB		05 25 Voyages of Discovery++.mp3
+ 2:08		3009KB		05 26 Lucky Penny++.mp3
+ 2:30		3526KB		05 27 An Amazing Friend+.mp3
+ 2:39		3734KB		05 28 Worlds Oldest Tree.mp3
+ 2:26		3418KB		05 29 The Missing Money+.mp3
+ 2:21		3298KB		05 30 Jonah And the Big Fish+.mp3
+ 2:18		3244KB		05 31 The Best Medicine+.mp3
+ 2:42		3792KB		06 01 A Day At The Beach+.mp3
+ 2:29		3499KB		06 02 The Watch Maker.mp3
+ 2:35		3630KB		06 03 It's There+.mp3
+ 2:29		3503KB		06 04 Silent Music.mp3
+ 2:45		3878KB		06 05 A New Neighbour++.mp3
+ 2:19		3249KB		06 06 At The Border+.mp3
+ 2:50		3994KB		06 07 Unknown Treasure+.mp3
+ 2:17		3217KB		06 08 Dancing Goats+.mp3
+ 2:23		3351KB		06 09 My Secret Weapon+.mp3
+ 2:44		3851KB		06 10 Insects Lend A Helping Hand.mp3
+ 2:42		3794KB		06 11 The Wise Rabbit And The Lion++.mp3
+ 2:32		3566KB		06 12 My First Drive++.mp3
+ 2:53		4054KB		06 13 School Bullies.mp3
+ 2:25		3396KB		06 14 A Father Returns++.mp3
+ 2:32		3570KB		06 15 A Shocking Story.mp3
+ 2:32		3558KB		06 16 Its Never Too Late to Change 1+.mp3
+ 2:29		3489KB		06 17 Its Never Too Late to Change 2.mp3
+ 2:34		3613KB		06 18 Dad The Handy Man++.mp3
+ 2:18		3235KB		06 19 An Honost Man's Reward++.mp3
+ 2:40		3752KB		06 20 What's In A Name+.mp3
+ 2:58		4164KB		06 21 Green Onion.mp3
+ 2:10		3043KB		06 22 The Worker++.mp3
+ 2:10		3057KB		06 23 Time Machine.mp3
+ 2:47		3917KB		06 24 Left Brain, Right Brain+.mp3
+ 2:13		3121KB		06 25 The Basketball Team++.mp3
+ 2:46		3890KB		06 26 The Man Who Faught Lions++.mp3
+ 2:25		3388KB		06 27 Don't Judge A Book by It's Cover+.mp3
+ 2:45		3872KB		06 28 A Story Of Hope++.mp3
+ 2:28		3474KB		06 29 LiAnns Surprise++.mp3
+ 2:47		3914KB		06 30 Natures Golden Root.mp3
+ 2:51		4014KB		07 01 Home On The Ranch++.mp3
+ 2:23		3356KB		07 02 The Ghost Of Summer Camp++.mp3
+ 2:39		3724KB		07 03 New Land New Home++.mp3
+ 2:50		3990KB		07 04 Terrifying Lizards.mp3
+ 2:47		3907KB		07 05 A Special Prescription I.mp3
+ 2:49		3961KB		07 06 A Special Prescription II++.mp3
+ 2:21		3305KB		07 07 Christmas In July++.mp3
+ 2:45		3868KB		07 08 Canadas National Animal Symbol.mp3
+ 2:41		3771KB		07 09 Strange Ball Of Lightening.mp3
+ 2:23		3361KB		07 10 How the honey bee got its sting.mp3
+ 2:17		3216KB		07 11 Joseph The Jumper.mp3
+ 2:28		3476KB		07 12 My Big Camping Trip+.mp3
+ 2:44		3840KB		07 13 Sweet Corn+.mp3
+ 2:33		3586KB		07 14 A Moving Water Fall+.mp3
+ 2:10		3035KB		07 15 The King And A Wise Judgment.mp3
+ 2:48		3935KB		07 16 One Insect.mp3
+ 2:40		3761KB		07 17 The Orange Tree+.mp3
+ 2:36		3665KB		07 18 A Swimming Star.mp3
+ 3:00		4220KB		07 19 Electricity.mp3
+ 2:18		3225KB		07 20 Mothers Day.mp3
+ 2:18		3246KB		07 21 A Disagreement.mp3
+ 2:35		3634KB		07 22 The Gift Of Independence.mp3
+ 2:23		3361KB		07 23 The Suit Case.mp3
+ 2:57		4147KB		07 24 A Paris Story.mp3
+ 2:29		3503KB		07 25 Money.mp3
+ 2:36		3663KB		07 26 Wish Comes True+.mp3
+ 2:14		3135KB		07 27 Winning Isn't Everything+.mp3
+ 2:47		3922KB		07 28 The Three Sisters.mp3
+ 2:38		3694KB		07 29 What Is Silk.mp3
+ 2:07		2966KB		07 30 Nature Makes It Better.mp3
+ 2:24		3386KB		07 31 My Favorite Teacher.mp3
+ 2:22		3329KB		08 01 Going Green.mp3
+ 2:35		3622KB		08 02 A Pool Of Their Own++.mp3
+ 2:42		3802KB		08 03 Weather According to Bugs++.mp3
+ 2:22		3322KB		08 04 The Boy Who Forgot to Be a Boy+.mp3
+ 3:05		4337KB		08 05 Ants++.mp3
+ 2:40		3746KB		08 06 Not Just Another Party+.mp3
+ 2:40		3759KB		08 07 A Special Dream Part 1.mp3
+ 2:39		3737KB		08 08 A Special Dream Part 2.mp3
+ 2:18		3244KB		08 09 Rainbow After Flood.mp3
+ 2:23		3358KB		08 10 A Boat Ride.mp3
+ 2:38		3710KB		08 11 Discovering The Night Sky.mp3
+ 2:37		3685KB		08 12 Antique Collector.mp3
+ 2:21		3304KB		08 13 Eagle Eye+.mp3
+ 2:26		3432KB		08 14 The Fish That Got Away.mp3
+ 2:46		3900KB		08 15 Tea.mp3
+ 2:43		3811KB		08 16 Visit to the dentist.mp3
+ 2:17		3221KB		08 17 Dads Old Car.mp3
+ 2:15		3174KB		08 18 The Turtle Who Talked Too Much.mp3
+ 2:38		3704KB		08 19 Homing Pigeons+.mp3
+ 2:27		3435KB		08 20 Working On The Roof.mp3
+ 2:00		2806KB		08 21 A Secret World.mp3
+ 2:32		3571KB		08 22 Cotton.mp3
+ 2:26		3411KB		08 23 The Tree The Brother.mp3
+ 2:31		3547KB		08 24 Wasting Time.mp3
+ 2:39		3721KB		08 25 Preserving Nature.mp3
+ 2:58		4173KB		08 26 Water, an endless cycle.mp3
+ 2:27		3437KB		08 27 My Famous Dad.mp3
+ 2:58		4173KB		08 28 Plastic.mp3
+ 2:40		3756KB		08 29 Im a Young Uncle.mp3
+ 2:24		3373KB		08 30 The Guitar Maker.mp3
+ 2:19		3268KB		08 31 Living With Grandpa.mp3
+ 2:48		3944KB		09 01 An Accident++.mp3
+ 2:24		3380KB		09 02 The Principal's Office+.mp3
+ 2:51		4011KB		09 03 The Amazing Earth++.mp3
+ 2:47		3911KB		09 04 A perfectly Designed Bird++.mp3
+ 2:51		4008KB		09 05 His Brothers Eyes+.mp3
+ 2:37		3677KB		09 06 Musical Math+.mp3
+ 2:35		3643KB		09 07 The Oak And The Grasses.mp3
+ 2:26		3423KB		09 08 Unlikely Hero+.mp3
+ 2:24		3366KB		09 09 MVP.mp3
+ 2:40		3752KB		09 10 An Earth Worm Project+.mp3
+ 2:36		3663KB		09 11 Why We Have Summer & Winter.mp3
+ 2:34		3600KB		09 12 A Patient Photographer+.mp3
+ 2:49		3956KB		09 13 An Airship Falls From The Sky I+.mp3
+ 2:31		3541KB		09 14 An Airship Falls From The Sky II.mp3
+ 2:50		3985KB		09 15 Animal Talk+.mp3
+ 2:38		3709KB		09 16 My Own Place.mp3
+ 2:58		4165KB		09 17 Food Preservation.mp3
+ 2:36		3651KB		09 18 Jumping for Joy.mp3
+ 2:42		3802KB		09 19 The Story Of Oil.mp3
+ 2:47		3904KB		09 20 The Boy in the Grass Boat+.mp3
+ 2:23		3351KB		09 21 The Great Bottle Drive.mp3
+ 2:47		3909KB		09 22 Squirrels.mp3
+ 2:35		3628KB		09 23 The Lightning Strike.mp3
+ 2:39		3715KB		09 24 Watches.mp3
+ 2:28		3472KB		09 25 A Book Of Stamps.mp3
+ 2:10		3056KB		09 26 Ladders.mp3
+ 2:42		3796KB		09 27 The Frog in the Shallow Well.mp3
+ 2:30		3513KB		09 28 The Dancer+.mp3
+ 2:39		3729KB		09 29 The Silver Pine Cones.mp3
+ 2:33		3587KB		09 30 The Good Samaritan+.mp3
+ 2:43		3814KB		10 01 The Buzzard and the Math Test++.mp3
+ 2:42		3787KB		10 02 Terry Fox I++.mp3
+ 2:36		3645KB		10 03 Terry Fox II++.mp3
+ 2:21		3313KB		10 04 The Big Leap++.mp3
+ 2:45		3857KB		10 05 Rock, Paper, Scissors++.mp3
+ 2:42		3791KB		10 06 Giant Sunflower.mp3
+ 2:52		4028KB		10 07 The Sahara.mp3
+ 2:47		3915KB		10 08 What Will You Do when you are 90 A.mp3
+ 2:21		3304KB		10 09 Expect The Unexpected.mp3
+ 2:58		4180KB		10 10 Galileo.mp3
+ 2:16		3189KB		10 11 The Wise Old Crow.mp3
+ 2:32		3559KB		10 12 The Bicycle Man.mp3
+ 2:25		3404KB		10 13 Racism Has No Place in Sport+.mp3
+ 2:35		3624KB		10 14 Migration.mp3
+ 2:12		3105KB		10 15 The Sheppard & the Sheep+.mp3
+ 2:43		3824KB		10 16 The First Lady of the Air I+.mp3
+ 2:56		4116KB		10 17 The First Lady of the Air II.mp3
+ 2:35		3641KB		10 18 An Amazing Plant+.mp3
+ 2:22		3336KB		10 19 The Architect.mp3
+ 2:29		3502KB		10 20 Little Hanna & the Piano.mp3
+ 2:24		3364KB		10 21 Honesty Is The Best Policy+.mp3
+ 2:34		3600KB		10 22 When The Sun or the Moon.mp3
+ 2:29		3491KB		10 23 Clean Living with Basketball+.mp3
+ 2:26		3428KB		10 24 The Mountain Climbers.mp3
+ 2:19		3268KB		10 25 Thanks For Giving.mp3
+ 2:13		3110KB		10 26 Role Models in Teaching+.mp3
+ 3:03		4291KB		10 27 Railway In The Sky.mp3
+ 2:00		2804KB		10 28 My Friend Juan.mp3
+ 2:16		3187KB		10 29 The Eagle and the Mouse.mp3
+ 2:41		3772KB		10 30 How Bees Make Honey.mp3
+ 2:44		3846KB		10 31 A Mothers Love+.mp3
+ 2:33		3592KB		11 01 Fishing Derby++.mp3
+ 2:22		3333KB		11 02 Our perfect puppy I.mp3
+ 2:28		3472KB		11 03 Our perfect puppy II++.mp3
+ 2:29		3503KB		11 04 My Smart Phone.mp3
+ 2:39		3718KB		11 05 Accidental Discovery++.mp3
+ 2:11		3065KB		11 06 The View from the Elevator.mp3
+ 2:26		3421KB		11 07 Vlad Dye the Science Guy.mp3
+ 2:47		3912KB		11 08 The Pyramids.mp3
+ 2:27		3451KB		11 09 Read the Instructions.mp3
+ 2:52		4032KB		11 10 Thinking Deeply.mp3
+ 2:31		3533KB		11 11 A Famous Singer.mp3
+ 2:33		3592KB		11 12 Let It Snow.mp3
+ 2:45		3857KB		11 13 Dissaster on the Ocean.mp3
+ 2:33		3576KB		11 14 A Deadly Gas.mp3
+ 2:30		3511KB		11 15 Mastering A Musical Instrument I +.mp3
+ 2:27		3456KB		11 16 Mastering A Musical Instrument II.mp3
+ 3:09		4432KB		11 17 The Ever Green Tree.mp3
+ 2:58		4171KB		11 18 A Mad Professor.mp3
+ 2:40		3739KB		11 19 Six Month Sleep.mp3
+ 2:53		4065KB		11 20 Lucky 13.mp3
+ 2:19		3248KB		11 21The Moon or Banana Tree.mp3
+ 2:33		3581KB		11 22 Shoot For the Moon.mp3
+ 2:33		3592KB		11 23 The Man Who Planted Apples+.mp3
+ 2:34		3619KB		11 24 Why Do Leaves Change.mp3
+ 2:21		3303KB		11 25 My Sister The Driver+.mp3
+ 2:31		3538KB		11 26 Gambling With Dissastor.mp3
+ 2:38		3701KB		11 27 Are You Over Weight+.mp3
+ 2:33		3585KB		11 28 A Great Test of Love+.mp3
+ 3:00		4223KB		11 29 Writting for the Blind.mp3
+ 2:43		3814KB		11 30 Opening Night.mp3
+ 2:43		3814KB		12 01 Skating on the Canel++.mp3
+ 2:24		3374KB		12 02 Growing Up.mp3
+ 2:36		3645KB		12 03 Canadian Weather++.mp3
+ 2:41		3784KB		12 04 The History Of the Computer+.mp3
+ 2:31		3532KB		12 05 A Day Without Technology I++.mp3
+ 2:31		3549KB		12 06 A Day Without Technology II.mp3
+ 2:26		3426KB		12 07 The Three  Dreams.mp3
+ 2:44		3845KB		12 08 A World of Amazment.mp3
+ 2:29		3499KB		12 09 The Lions+.mp3
+ 2:18		3236KB		12 10 The Angry Chewawa I+.mp3
+ 2:28		3459KB		12 11 The Angry Chewawa II.mp3
+ 2:44		3854KB		12 12 Friendship+.mp3
+ 2:36		3645KB		12 13 Magnets+.mp3
+ 2:09		3029KB		12 14 A Letter to Santa Clause+.mp3
+ 2:35		3637KB		12 15 The Travelling Musician.mp3
+ 2:42		3802KB		12 16 Knives Forks and Chopsticks I.mp3
+ 2:16		3177KB		12 17 Knives Forks and Chopsticks II.mp3
+ 2:53		4049KB		12 18 History Of Time.mp3
+ 2:26		3411KB		12 19 The Lucky Mistake.mp3
+ 2:17		3216KB		12 20 Where Is The Cellphone.mp3
+ 2:29		3503KB		12 21 Perfume For Mom.mp3
+ 2:03		2875KB		12 22 Seven Generations in the Future+.mp3
+ 2:45		3865KB		12 23 Skating On History+.mp3
+ 2:50		3991KB		12 24 Birds of the World.mp3
+ 2:42		3785KB		12 25 The Cat and the Christmas Tree+.mp3
+ 2:32		3562KB		12 26 Better To Give+.mp3
+ 2:23		3359KB		12 27 An Accident At Home.mp3
+ 2:24		3376KB		12 28 A Bowl Of Stew+.mp3
+ 2:27		3435KB		12 29 School For Africa+.mp3
+ 2:29		3500KB		12 30 The Box+.mp3
+ 2:28		3464KB		12 31 Not Too Much.mp3
