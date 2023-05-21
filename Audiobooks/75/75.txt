@@ -1,29 +1,26 @@
- 17:42		24887KB		01 the musical note.MP3
- 11:39		16373KB		02 the missing key.MP3
- 16:15		22842KB		03 the big sniff.MP3
- 16:34		23294KB		04 the monster mess.MP3
- 16:11		22763KB		05 the stolen base.MP3
- 32:20		45470KB		06 fishy prize.MP3
- 17:24		24459KB		07 goes down in the dumps.MP3
- 30:33		42953KB		08 the mushy valentine.MP3
- 17:34		24710KB		09 the pillowcase.mp3
- 27:42		38955KB		10 the sticky case.MP3
- 12:19		17325KB		11 hoes undercover.MP3
- 12:32		17627KB		12 the lost list.MP3
- 11:51		16672KB		13 the phony clue.MP3
- 16:44		23520KB		14 stalks stupidweed.MP3
- 28:03		39435KB		15 the boring beach bag.MP3
- 21:42		30518KB		16 on the owl express.MP3
- 16:51		23685KB		17 tardy tortoise.MP3
- 13:48		19399KB		18 the halloween hunt.MP3
- 13:02		18333KB		19 the snowy trail.MP3
- 16:18		22927KB		20 the crunchy christmas.MP3
- 20:10		28365KB		21 me.MP3
- 20:16		28505KB		22 san francisco detective.MP3
- 17:40		24836KB		23 saves the king of sweden.mp3
- 22:15		31299KB		24 the hungry book club.MP3
- 12:32		17630KB		25 nate the great.MP3
- 40:26		56854KB		26 talks turkey.MP3
- 18:48		26443KB		27 where are you.mp3
- 27:48		39099KB		28 the wandering word.mp3
- 28:58		40740KB		29 the missing birthday snake.mp3
+ 12:32		17631KB		01 nate the great.mp3
+ 12:19		17326KB		02 goes undercover.mp3
+ 13:48		19399KB		03 the halloween hunt.mp3
+ 16:34		23294KB		04 the monster mess.mp3
+ 11:51		16673KB		05 the phony clue.mp3
+ 11:39		16374KB		06 the missing key.mp3
+ 13:02		18333KB		07 the snowy trail.mp3
+ 16:18		22928KB		08 the crunchy christmas.mp3
+ 23:35		33168KB		09 the lost list.mp3
+ 33:16		46771KB		10 the sticky case.mp3
+ 32:20		45470KB		11 fishy prize.mp3
+ 28:03		39435KB		12 the boring beach bag.mp3
+ 28:04		39478KB		13 the stolen base.mp3
+ 30:33		42953KB		14 the mushy valentine.MP3
+ 40:26		56854KB		15 talks turkey.mp3
+ 23:10		32587KB		16 the hungry book club.mp3
+ 22:23		31468KB		17 on the owl express.mp3
+ 17:18		24326KB		18 tardy tortoise.mp3
+ 18:30		26016KB		19 saves the king of sweden.mp3
+ 20:44		29155KB		20 san francisco detective.mp3
+ 18:04		25403KB		21 the pillowcase.mp3
+ 18:15		25656KB		22 the musical note.mp3
+ 16:42		23479KB		23 the big sniff.mp3
+ 20:37		28984KB		24 me.mp3
+ 17:47		25005KB		25 goes down in the dumps.mp3
+ 18:20		25778KB		26 stalks stupidweed.mp3
