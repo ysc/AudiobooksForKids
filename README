@@ -202,7 +202,7 @@ Children's Audiobooks:
 197 Red Rocket 11-Fluency Level 4 (48 books, 3 hours 52 minutes)
 198 Ordinary People Change the World (8 books, 1 hour 54 minutes)
 199 Guided Science Readers (76 books, 3 hours 15 minutes)
-200 First Little Readers A-F (116 books, 6 hours 4 minutes)
+200 First Little Readers A-H (132 books, 7 hours 1 minutes)
 201 First Little Comics (56 books, 1 hour 20 minutes)
 202 Nonfiction Sight Word Readers (100 books, 4 hours 13 minutes)
 203 Collins First English Words (1 book, 1 hour 17 minutes)
@@ -238,5 +238,5 @@ Children's Audiobooks:
 233 RAZ-Y (99 books, 24 hours)
 234 RAZ-Z (84 books, 21 hours 22 minutes)
 
-Total Books: 6548 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
-Total Time: 1037 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
+Total Books: 6564 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Time: 1038 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
