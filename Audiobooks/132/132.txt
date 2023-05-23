@@ -1,6 +1,15 @@
- 2:31		3529KB		1.1 The Birthday Banquet.mp3
- 5:18		7446KB		1.2 The Birthday Banquet Live.mp3
- 4:21		6128KB		2 The Wonky Donkey.mp3
- 3:40		5164KB		3 My Daddy Ate an Apple.mp3
- 3:14		4556KB		4 Square eyes.mp3
- 5:38		7912KB		5 Willbee the Bumblebee.mp3
+ 3:45		3520KB		1.1 The Birthday Banquet.mp3
+ 2:31		3529KB		1.2 The Birthday Banquet.mp3
+ 5:18		7446KB		1.3 The Birthday Banquet Live.mp3
+ 6:24		6009KB		2.1 The Wonky Donkey.mp3
+ 4:21		6128KB		2.2 The Wonky Donkey.mp3
+ 7:10		6728KB		3.1 My Daddy Ate an Apple.mp3
+ 3:40		5164KB		3.2 My Daddy Ate an Apple.mp3
+ 5:39		5305KB		4.1 Square eyes.mp3
+ 3:14		4556KB		4.2 Square eyes.mp3
+ 6:09		5779KB		5.1 Willbee the Bumblebee.mp3
+ 5:38		7912KB		5.2 Willbee the Bumblebee.mp3
+ 5:49		5466KB		6.1 The Scariest Thing in the Garden.mp3
+ 3:49		3586KB		6.2 The Scariest Thing in the Garden.mp3
+ 6:30		6102KB		7.1 The Dinky Donkey.mp3
+ 4:01		3769KB		7.2 The Dinky Donkey.mp3
