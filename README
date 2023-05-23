@@ -134,7 +134,7 @@ Children's Audiobooks:
 129 My Very First Mother Goose (1 book, 47 minutes)
 130 Rhymes & Rhythms Collection (5 books, 1 hour 51 minutes)
 131 Sing Along Rainbow Rabbit (24 books, 1 hour 56 minutes) 
-132 Craig Smith (5 books, 25 minutes)
+132 Craig Smith (7 books, 1 hour 14 minutes)
 133 The Story Tree - Tales to Read Aloud (1 book, 37 minutes)
 134 Learning to Get Along (15 books, 58 minutes)
 135 Oxford Phonics World (10 books, 10 hours 50 minutes)
@@ -238,5 +238,5 @@ Children's Audiobooks:
 233 RAZ-Y (99 books, 24 hours)
 234 RAZ-Z (84 books, 21 hours 22 minutes)
 
-Total Books: 6564 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
-Total Time: 1038 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
+Total Books: 6566 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Time: 1039 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
