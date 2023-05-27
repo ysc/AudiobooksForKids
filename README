@@ -65,8 +65,8 @@ Children's Audiobooks:
 63 Horrid Henry (25 books, 7 hours 11 minutes)
 64 Jan Brett (2 books, 21 minutes)
 65 The Little House (4 books, 1 hour )
-66 Let's Read and Find out Science 1 (13 books, 2 hours 3 minutes)
-66 Let's Read and Find out Science 2 (21 books, 14 hours 11 minutes)
+66 Let's Read and Find out Science 1 (19 books, 2 hours 55 minutes)
+66 Let's Read and Find out Science 2 (50 books, 19 hours 22 minutes)
 67 Amelia Bedelia Level Two (25 books, 6 hours 7 minutes)
 68 Press Start! (5 books, 2 hours 8 minutes)
 69 Folk & Fairy Tale Easy Readers (15 books, 1 hour 5 minutes)
@@ -250,5 +250,5 @@ Children's Audiobooks:
 245 Science A-Z Grades 3-4 (99 books, 18 hours 12 minutes)
 246 Science A-Z Grades 5-6 (89 books, 20 hours 16 minutes)
 
-Total Books: 7158 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
-Total Time: 1469 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
+Total Books: 7193 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Time: 1475 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
