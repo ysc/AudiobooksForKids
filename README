@@ -165,8 +165,8 @@ Children's Audiobooks:
 160 美国国家地理英语分级读物第2级 (30 books, 19 hours 52 minutes)
 161 美国国家地理英语分级读物第3级 (30 books, 21 hours 17 minutes)
 162 美国国家地理英语分级读物第4级 (24 books, 36 hours)
-163 Fables by Arnold Lobel (1 book, 45 minutes)
-164 Me (6 books, 36 minutes)
+163 书虫·牛津英汉双语读物 (149 books, 196 hours 48 minutes)
+164 书虫·牛津英汉双语读物美绘版 (28 books, 26 hours 24 minutes)
 165 Math Start (21 books, 2 hours 13 minutes)
 166 Llama Llama (8 books, 1 hour 18 minutes)
 167 Child's Play Flip-Up Fairy Tales Collection (7 books, 57 minutes)
@@ -250,5 +250,5 @@ Children's Audiobooks:
 245 Science A-Z Grades 3-4 (99 books, 18 hours 12 minutes)
 246 Science A-Z Grades 5-6 (89 books, 20 hours 16 minutes)
 
-Total Books: 7193 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
-Total Time: 1475 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
+Total Books: 7363 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Time: 1697 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
