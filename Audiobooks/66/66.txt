@@ -17,7 +17,28 @@
  9:19		8758KB		1-17 Dinosaurs Big and Small.mp3
  9:02		8512KB		1-18 What's for Lunch.mp3
  7:44		7278KB		1-19 Bugs Are Insects.mp3
-  10:04		9445KB		2-22 Tornado Alert.mp3
+ 39:29		74027KB		2-01 Be a friend to trees.mp3
+ 41:45		78279KB		2-02-How do apples grow.mp3
+ 39:26		73945KB		2-03 Why do leaves change color.mp3
+ 39:34		74180KB		2-04 Digging up dinosaurs.mp3
+ 30:02		56324KB		2-05 Dinosaurs are different.mp3
+ 45:25		85163KB		2-06 floating in space.mp3
+ 39:22		73814KB		2-07 The moon seems to change.mp3
+ 40:34		76078KB		2-08 The planets in our solar system.mp3
+ 35:19		66219KB		2-09 Down comes the Rain.mp3
+ 40:43		38166KB		2-10 feel the wind.mp3
+ 37:46		70804KB		2-11 Flash Crash Rumble and roll.mp3
+ 40:32		75997KB		2-12-sunshine makes the season.mp3
+ 34:43		65103KB		2-13 What will the weather be.mp3
+ 45:45		85795KB		2-14 Earthquakes.mp3
+ 43:58		82426KB		2-15 Follow the water from brook to ocean.mp3
+ 43:14		40539KB		2-16 how mountains are made.mp3
+ 38:18		71822KB		2-17 Let's Go Rock colletcting.mp3
+ 51:44		97008KB		2-18 You're aboard spaceship Earth.mp3
+ 46:09		86524KB		2-19 What is the world made of.mp3
+ 37:53		35511KB		2-20 what maks a magnet.mp3
+ 39:02		73173KB		2-21 Where does the garbage go.mp3
+ 10:04		9445KB		2-22 Tornado Alert.mp3
  12:07		11359KB		2-23 Flood Warning.mp3
  7:48		7318KB		2-24 Hurricane Watch.mp3
  11:15		10553KB		2-25 Volcanoes.mp3
@@ -46,24 +67,3 @@
  15:13		14282KB		2-48 Where Did Dinosaurs Come From.mp3
  8:56		8420KB		2-49 My Visit to the Dinosaurs.mp3
  13:34		12723KB		2-50 The International Space Station.mp3
- 39:29		74027KB		2_01_Be a friend to trees.mp3
- 41:45		78279KB		2_02_How do apples grow.mp3
- 39:26		73945KB		2_03_Why do leaves change color.mp3
- 39:34		74180KB		2_04_Digging up dinosaurs.mp3
- 30:02		56324KB		2_05_Dinosaurs are different.mp3
- 45:25		85163KB		2_06_floating in space.mp3
- 39:22		73814KB		2_07_The moon seems to change.mp3
- 40:34		76078KB		2_08_The planets in our solar system.mp3
- 35:19		66219KB		2_09_Down comes the Rain.mp3
- 40:43		38166KB		2_10_feel the wind.mp3
- 37:46		70804KB		2_11_Flash Crash Rumble and roll.mp3
- 40:32		75997KB		2_12_sunshine makes the season.mp3
- 34:43		65103KB		2_13_What will the weather be.mp3
- 45:45		85795KB		2_14_Earthquakes.mp3
- 43:58		82426KB		2_15_Follow the water from brook to ocean.mp3
- 43:14		40539KB		2_16_how mountains are made.mp3
- 38:18		71822KB		2_17_Let's Go Rock colletcting.mp3
- 51:44		97008KB		2_18_You're aboard spaceship Earth.mp3
- 46:09		86524KB		2_19_What is the world made of.mp3
- 37:53		35511KB		2_20_what maks a magnet.mp3
- 39:02		73173KB		2_21_Where does the garbage go.mp3
