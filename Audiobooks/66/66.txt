@@ -11,7 +11,41 @@
  7:56		7444KB		1-11 The big dipper.mp3
  10:49		10146KB		1-12 Is there life in outer space.mp3
  11:44		10995KB		1-13 sounds all around.mp3
- 9:09		8575KB		1-14 Sleep is for everyone.mp3
+ 6:49		6422KB		1-14 I'm Growing.mp3
+ 8:15		7763KB		1-15 Where Are the Night Animals.mp3
+ 10:40		10079KB		1-16 Clouds.mp3
+ 9:19		8758KB		1-17 Dinosaurs Big and Small.mp3
+ 9:02		8512KB		1-18 What's for Lunch.mp3
+ 7:44		7278KB		1-19 Bugs Are Insects.mp3
+  10:04		9445KB		2-22 Tornado Alert.mp3
+ 12:07		11359KB		2-23 Flood Warning.mp3
+ 7:48		7318KB		2-24 Hurricane Watch.mp3
+ 11:15		10553KB		2-25 Volcanoes.mp3
+ 10:10		9568KB		2-26 Your Skin and Mine.mp3
+ 9:38		9047KB		2-27 What Happens to a Hamburger.mp3
+ 12:31		11754KB		2-28 Germs Make Me Sick.mp3
+ 10:26		9807KB		2-29 Why I Sneeze, Shiver, Hiccup, &Yawn.mp3
+ 9:36		9029KB		2-30 The Skeleton Inside You.mp3
+ 10:59		10305KB		2-31 Hear Your Heart.mp3
+ 9:27		8898KB		2-32 A Drop of Blood.mp3
+ 13:44		12943KB		2-33 Archaeologists Dig for Clues.mp3
+ 14:41		13796KB		2-34 How Deep is the Ocean.mp3
+ 8:16		7749KB		2-35 Energy Makes Things Happen.mp3
+ 12:04		11311KB		2-36 What's So Bad About Gasoline.mp3
+ 12:55		12101KB		2-37 What Happens to Our Trash.mp3
+ 6:45		6331KB		2-38 Light Is All Around Us.mp3
+ 9:51		9235KB		2-39 Switch On Switch Off.mp3
+ 11:43		10978KB		2-40 Simple Machines.mp3
+ 7:05		6641KB		2-41 How People Learned to Fly.mp3
+ 8:46		8225KB		2-42 Gravity is a Mystery.mp3
+ 12:51		12040KB		2-43 Forces Make Things Move.mp3
+ 6:28		6069KB		2-44 What Makes Day and Night.mp3
+ 10:54		10232KB		2-45 Mission to Mars.mp3
+ 10:02		9413KB		2-46 What the Moon is Like.mp3
+ 12:45		11966KB		2-47 The Sky is Full of Stars.mp3
+ 15:13		14282KB		2-48 Where Did Dinosaurs Come From.mp3
+ 8:56		8420KB		2-49 My Visit to the Dinosaurs.mp3
+ 13:34		12723KB		2-50 The International Space Station.mp3
  39:29		74027KB		2_01_Be a friend to trees.mp3
  41:45		78279KB		2_02_How do apples grow.mp3
  39:26		73945KB		2_03_Why do leaves change color.mp3
@@ -33,4 +67,3 @@
  46:09		86524KB		2_19_What is the world made of.mp3
  37:53		35511KB		2_20_what maks a magnet.mp3
  39:02		73173KB		2_21_Where does the garbage go.mp3
- 33:51		63477KB		2_22_Fossils tell of long ago.mp3
