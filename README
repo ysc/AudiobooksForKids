@@ -269,7 +269,7 @@ Children's Audiobooks:
 267 Geronimo Stilton (25 books, 26 hours 24 minutes)
 268 Hours in Nowhere (1 books, 3 hours 46 minutes)
 269 The Secrets of Droon (6 books, 6 hours 47 minutes)
-270 Captain Underpants (12 books, 13 hours 39 minutes)
+270 Captain Underpants (12 books, 17 hours 26 minutes)
 271 The Famous Five (21 books, 88 hours 48 minutes)
 272 Wayside School (4 books, 11 hours 56 minutes)
 273 Andrew Clements (21 books, 67 hours 12 minutes)
@@ -349,4 +349,4 @@ Children's Audiobooks:
 347 The Newbery Medal for Best Children's Book (156 books, 945 hours 36 minutes)
 
 Total Books: 8712 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
-Total Time: 6721 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
+Total Time: 6725 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
