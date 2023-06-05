@@ -249,7 +249,7 @@ Children's Audiobooks:
 247 A to Z Mysteries (26 books, 24 hours)
 248 Calendar Mysteries (12 books, 9 hours 52 minutes)
 249 A Jigsaw Jones Mystery (26 books, 23 hours 11 minutes)
-250 Nancy Drew Diaries (32 books, 108 hours)
+250 Nancy Drew Diaries (35 books, 108 hours)
 251 Encyclopedia Brown (13 books, 19 hours 38 minutes)
 252 Cam Jansen (22 books, 14 hours 26 minutes)
 253 My Weird School (34 books, 28 hours 48 minutes)
@@ -348,5 +348,5 @@ Children's Audiobooks:
 346 The Hitchhiker's Guide to the Galaxy (5 books, 36 hours)
 347 The Newbery Medal for Best Children's Book (156 books, 945 hours 36 minutes)
 
-Total Books: 8712 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Books: 8715 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
 Total Time: 6725 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
