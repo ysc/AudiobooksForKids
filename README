@@ -37,7 +37,7 @@ Children's Audiobooks:
 35 Oliver and Amanda Series (10 books, 2 hours 54 minutes)
 36 What the Ladybird Heard (8 books, 1 hour 26 minutes)
 37 Usborne Farmyard Tales (1 book 20 stories, 1 hour 11 minutes)
-38 Owl Diaries (6 books, 3 hours 8 minutes)
+38 Owl Diaries (12 books, 6 hours 15 minutes)
 39 Paddington (8 books, 1 hour 26 minutes)
 40 Kung Pow Chicken (4 books, 1 hour 48 minutes)
 41 Missy's Super Duper Royal Deluxe (4 books, 1 hour 16 minutes)
@@ -348,5 +348,5 @@ Children's Audiobooks:
 346 The Hitchhiker's Guide to the Galaxy (5 books, 36 hours)
 347 The Newbery Medal for Best Children's Book (156 books, 945 hours 36 minutes)
 
-Total Books: 8730 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
-Total Time: 6752 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
+Total Books: 8736 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Time: 6755 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
