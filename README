@@ -118,7 +118,7 @@ Children's Audiobooks:
 116 Meg and Mog (16 books, 1 hour 20 minutes)
 117 Eric Carle Board (14 books, 4 hours 21 minutes)
 118 Harry And The Dinosaurs (7 books, 47 minutes)
-119 Happy Families (11 books, 1 hour 1 minute)
+119 Happy Families (16 books, 1 hour 27 minute)
 120 Picture Books (20 books, 5 hours 5 minutes)
 121 Aesop’s Fables - BBC School Radio (40 books, 3 hours 13 minutes)
 122 Let’s Make a Story - BBC School Radio (8 books, 2 hours )
@@ -348,5 +348,5 @@ Children's Audiobooks:
 346 The Hitchhiker's Guide to the Galaxy (5 books, 36 hours)
 347 The Newbery Medal for Best Children's Book (156 books, 945 hours 36 minutes)
 
-Total Books: 8736 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
+Total Books: 8741 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
 Total Time: 6755 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
