@@ -9,3 +9,8 @@
  5:15		2729KB		09 Mrs Lather's Laundry.mp3
  5:30		2849KB		10 Mrs Vole the Vet.mp3
  5:40		2931KB		11 Mrs Wobble the Waitress.mp3
+ 5:56		5558KB		12 Master Bun the Bakers' Boy.mp3
+ 5:32		5195KB		13 Master Salt the Sailors' Son.mp3
+ 5:18		4975KB		14 Miss Dose the Doctors' Daughter.mp3
+ 4:49		4513KB		15 Mrs. Plug the Plumber.mp3
+ 4:23		4105KB		16 Ms Cliff The Climber.mp3
