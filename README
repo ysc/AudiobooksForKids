@@ -348,7 +348,7 @@ Children's Audiobooks:
 344 The Book Thief (1 books, 13 hours 57 minutes)
 345 A Tree Grows in Brooklyn (1 books, 14 hours 58 minutes)
 346 The Hitchhiker's Guide to the Galaxy (5 books, 36 hours)
-347 The Newbery Medal for Best Children's Book (308 books, 1580 hours 24 minutes)
+347 The Newbery Medal for Best Children's Book (318 books, 1580 hours 24 minutes)
 
 Total Books: 8784 (cat README | awk -F '(' '{print $2}' | awk -F ' book' '{print $1}' | awk '{sum+=$1} END {print sum}')
 Total Time: 6812 hours (let h=`cat README | grep hour | awk -F 'hour' '{print $1}' | awk -F ',' '{print $2}' | awk '{sum+=$1} END {print sum}'`; let a=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep -v hour | awk '{sum+=$1} END {print sum}'`; let b=`cat README | grep minute | awk -F 'minute' '{print $1}' | awk -F ',' '{print $2}' | grep hour | awk '{print $3}' | awk '{sum+=$1} END {print sum}'`; let c=$a+$b; let d=$c/60; let total=$h+$d; echo $total;)
